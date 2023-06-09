@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mehmet_can_gunduz_hw5</string>
+    <string name="serbest_piyasa_alis">Serbest Piyasa Alış</string>
+    <string name="serbest_piyasa_satis">Serbest Piyasa Satış</string>
+    <string name="banka_alis">Banka Alış</string>
+    <string name="banka_satis">Banka Satış</string>
+    <string name="döviz_kuru_sec">Döviz Kuru Seç</string>
+</resources>
